@@ -23,8 +23,7 @@ This project focuses on **sentiment analysis** using the [Sentiment140 dataset](
 ### About the Dataset:
 - **Context:**  
   This dataset contains **1,600,000 tweets** extracted using the **Twitter API**. It has been annotated for **sentiment detection** with the following labels:
-  - **0** = Negative  
-  - **2** = Neutral  
+  - **0** = Negative   
   - **4** = Positive  
 
 ### Content and Fields:
